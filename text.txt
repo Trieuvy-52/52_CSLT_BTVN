@@ -1,0 +1,10 @@
+#Ngày xưa 
+=>>>>> Dùng dòng lệnh điều khiển máy tính =>>>>> Command line (dòng lệnh) (Khó sài, nhma nhanh) =>>>>> vẫn sài Profession
+
+#Hơi ngày xưa
+=>>>>> Chuyển qua dùng độ hoạ để điều khiển máy tính (UI) (Dễ sài, thân thiện, lâu và tuỳ biến)
+
+UI != UX
+
+
+
